@@ -1,0 +1,33 @@
+<resources>
+
+
+    <!--    IMPORTANT!-->
+    <!--    View the README.md file for instructions on how to get your credentials-->
+    <string name="bindid_host">https://signin.bindid-sandbox.io</string>
+    <string name="bindid_client_id">BINDID_CLIENT_ID</string>
+    <string name="bindid_redirect_uri">BINDID_REDIRECT_URI</string>
+
+    <string name="app_name">BindID</string>
+
+    <string name="main_login">Biometric Login</string>
+    <string name="tokenTitle">Your token data is:</string>
+
+    <string name="ts_bindid_passport_user_id">User ID </string>
+    <string name="ts_bindid_passport_user_alias">User Alias</string>
+    <string name="ts_bindid_passport_phone_number">Phone Number</string>
+    <string name="ts_bindid_passport_email_address">Email Address</string>
+    <string name="ts_bindid_passport_user_registered_on">User Registered on</string>
+    <string name="ts_bindid_passport_user_first_seen">User First Seen</string>
+    <string name="ts_bindid_passport_user_first_confirmed">User First Confirmed</string>
+    <string name="ts_bindid_passport_user_last_seen">User Last Seen</string>
+    <string name="ts_bindid_passport_user_last_seen_by_network">User Last Seen by Network</string>
+    <string name="ts_bindid_passport_total_providers_that_confirmed_user">Total Providers that Confirmed User</string>
+    <string name="ts_bindid_passport_authenticating_device_registered">Authenticating Device Registered</string>
+    <string name="ts_bindid_passport_authenticating_device_first_seen">Authenticating Device First Seen</string>
+    <string name="ts_bindid_passport_authenticating_device_confirmed">Authenticating Device Confirmed</string>
+    <string name="ts_bindid_passport_authenticating_device_last_seen">Authenticating Device Last Seen</string>
+    <string name="ts_bindid_passport_authenticating_device_last_seen_by_network">Authenticating Device Last Seen by Network</string>
+    <string name="ts_bindid_passport_total_known_devices">Total Known Devices</string>
+
+
+</resources>
